@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\AkshayDocs_12_23_2015\AkshayDocs\akshay_college\2017\SPRING2017\ECE4012\SeniorDesignCode\AdvancedHud\BT200CtrlDemo\app\libs\BT200Ctrl.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a3ea07197215d0f28cd50c1d480eb94f7cad6cd1">
+        <dex dex="C:\AkshayDocs_12_23_2015\AkshayDocs\akshay_college\2017\SPRING2017\ECE4012\SeniorDesignCode\AdvancedHud\BT200CtrlDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\BT200Ctrl_4d4047748dd8899e9b09445f13d4ca2e2f155933\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AkshayDocs_12_23_2015\AkshayDocs\akshay_college\2017\SPRING2017\ECE4012\SeniorDesignCode\AdvancedHud\BT200CtrlDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="fc53f4a7a387d900bc1948c393cd2006d4656574">
+        <dex dex="C:\AkshayDocs_12_23_2015\AkshayDocs\akshay_college\2017\SPRING2017\ECE4012\SeniorDesignCode\AdvancedHud\BT200CtrlDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ccd9dc7b7e9be6531933ed3702e40bcd96b61df3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AkshayDocs_12_23_2015\AkshayDocs\akshay_college\2017\SPRING2017\ECE4012\SeniorDesignCode\AdvancedHud\BT200CtrlDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3b5c1ff2e6dfabbfce8abf5e94d661baaa2521fc">
+        <dex dex="C:\AkshayDocs_12_23_2015\AkshayDocs\akshay_college\2017\SPRING2017\ECE4012\SeniorDesignCode\AdvancedHud\BT200CtrlDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_afc3a894a55ab12c642effd4b6969a21296b056c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Akshay\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\AkshayDocs_12_23_2015\AkshayDocs\akshay_college\2017\SPRING2017\ECE4012\SeniorDesignCode\AdvancedHud\BT200CtrlDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_d25a25148082127813473d33f6d79e0f65451f8e\classes.dex" />
+    </item>
+
+</items>

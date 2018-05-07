@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Akshay\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Akshay\AdvancedHud\BT200MapApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_d25a25148082127813473d33f6d79e0f65451f8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Akshay\AdvancedHud\BT200MapApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c8923c7f53fef7eacad4f6b95099aa98cef65190">
+        <dex dex="C:\Users\Akshay\AdvancedHud\BT200MapApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_26e46a4ac58b9f2f5fa96a2524fe82627794e307\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Akshay\AdvancedHud\BT200MapApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="41b973da7f010c31e392a4d0ed8a7e4e09a814cc">
+        <dex dex="C:\Users\Akshay\AdvancedHud\BT200MapApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d5cd451b2762cbe0fdf1df57445e40933d684c55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Akshay\AdvancedHud\BT200MapApp\app\libs\BT200Ctrl.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a3ea07197215d0f28cd50c1d480eb94f7cad6cd1">
+        <dex dex="C:\Users\Akshay\AdvancedHud\BT200MapApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\BT200Ctrl_a0634dadd856558612fe583c5b4e9cf30394c5a0\classes.dex" />
+    </item>
+
+</items>

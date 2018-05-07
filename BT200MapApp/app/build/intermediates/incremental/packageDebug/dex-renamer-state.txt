@@ -1,0 +1,7 @@
+#Sun Mar 05 14:27:39 EST 2017
+base.0=C\:\\Users\\Akshay\\AdvancedHud\\BT200MapApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d5cd451b2762cbe0fdf1df57445e40933d684c55
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Akshay\\AdvancedHud\\BT200MapApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_26e46a4ac58b9f2f5fa96a2524fe82627794e307\\classes.dex
+base.1=C\:\\Users\\Akshay\\AdvancedHud\\BT200MapApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_26e46a4ac58b9f2f5fa96a2524fe82627794e307
+file.0=C\:\\Users\\Akshay\\AdvancedHud\\BT200MapApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d5cd451b2762cbe0fdf1df57445e40933d684c55\\classes.dex

@@ -1,0 +1,4 @@
+include ':hello_area_description'
+include ':hello_depth_perception'
+include ':AdvHUD_TangoApp'
+include ':hello_video'

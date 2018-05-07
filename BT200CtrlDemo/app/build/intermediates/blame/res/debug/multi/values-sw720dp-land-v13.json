@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\AkshayDocs_12_23_2015\\AkshayDocs\\akshay_college\\2017\\SPRING2017\\ECE4012\\SeniorDesignCode\\AdvancedHud\\BT200CtrlDemo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "C:\\AkshayDocs_12_23_2015\\AkshayDocs\\akshay_college\\2017\\SPRING2017\\ECE4012\\SeniorDesignCode\\AdvancedHud\\BT200CtrlDemo\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 205,
+                        "endColumn": 58,
+                        "endOffset": 259
+                    }
+                }
+            }
+        ]
+    }
+]

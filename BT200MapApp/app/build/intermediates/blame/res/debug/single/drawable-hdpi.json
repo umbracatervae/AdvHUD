@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Akshay\\AdvancedHud\\BT200MapApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\transp.png",
+        "source": "C:\\Users\\Akshay\\AdvancedHud\\BT200MapApp\\app\\src\\main\\res\\drawable-hdpi\\transp.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshay\\AdvancedHud\\BT200MapApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Akshay\\AdvancedHud\\BT200MapApp\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshay\\AdvancedHud\\BT200MapApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\map.png",
+        "source": "C:\\Users\\Akshay\\AdvancedHud\\BT200MapApp\\app\\src\\main\\res\\drawable-hdpi\\map.png"
+    }
+]

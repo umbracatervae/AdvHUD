@@ -1,0 +1,7 @@
+#Wed Mar 01 16:27:17 EST 2017
+base.0=C\:\\AkshayDocs_12_23_2015\\AkshayDocs\\akshay_college\\2017\\SPRING2017\\ECE4012\\SeniorDesignCode\\AdvancedHud\\BT200CtrlDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_afc3a894a55ab12c642effd4b6969a21296b056c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\AkshayDocs_12_23_2015\\AkshayDocs\\akshay_college\\2017\\SPRING2017\\ECE4012\\SeniorDesignCode\\AdvancedHud\\BT200CtrlDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ccd9dc7b7e9be6531933ed3702e40bcd96b61df3\\classes.dex
+base.1=C\:\\AkshayDocs_12_23_2015\\AkshayDocs\\akshay_college\\2017\\SPRING2017\\ECE4012\\SeniorDesignCode\\AdvancedHud\\BT200CtrlDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ccd9dc7b7e9be6531933ed3702e40bcd96b61df3
+file.0=C\:\\AkshayDocs_12_23_2015\\AkshayDocs\\akshay_college\\2017\\SPRING2017\\ECE4012\\SeniorDesignCode\\AdvancedHud\\BT200CtrlDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_afc3a894a55ab12c642effd4b6969a21296b056c\\classes.dex

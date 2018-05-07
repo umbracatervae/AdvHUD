@@ -1,0 +1,31 @@
+ private float[] updateLocation(TangoPoseData pose) {
+	    private float translation[] = new float[3];
+        private float orientation[] = new float[4];
+		private float gMatrix[] = new float[16];
+        translation = pose.getTranslationAsFloats();
+        orientation = pose.getRotationAsFloats();
+        qw = orientation[0];
+        qx = orientation[1];
+        qy = orientation[2];
+        qz = orientation[3];
+		//Extracting Rotation Matrix from orientation quaternion
+        gMatrix[0] = 1-2*(qy*qy)-2*(qz*qz);
+        gMatrix[1] = (2*qx*qy)+(2*qz*qw);
+        gMatrix[2] = (2*qx*qz)-(2*qy*qw);
+        gMatrix[4] = (2*qx*qy)-(2*qz*qw);
+        gMatrix[5] = 1-(2*qx*qx)-(2*qz*qz);
+        gMatrix[6] = (2*qy*qz)+(2*qx*qw);
+        gMatrix[8] = (2*qx*qz)+(2*qy*qw);
+        gMatrix[9] = (2*qy*qz)-(2*qx*qw);
+        gMatrix[10] = 1-(2*qx*qx)-(2*qy*qy);
+		//Extracting translation matrix
+		gMatrix[3] = translation[0];
+		gMatrix[7] = translation[1];
+		gMatrix[11] = translation[2];
+		//Populating final aspect of 4X4 matrix
+		gMatrix[12] = 0;
+		gMatrix[13] = 0;
+		gMatrix[14] = 0;
+		gMatrix[15] = 1;
+		return gMatrix;        
+}

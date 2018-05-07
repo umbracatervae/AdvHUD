@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Wed Mar 01 16:27:17 EST 2017
+2.base=C\:\\AkshayDocs_12_23_2015\\AkshayDocs\\akshay_college\\2017\\SPRING2017\\ECE4012\\SeniorDesignCode\\AdvancedHud\\BT200CtrlDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\AkshayDocs_12_23_2015\\AkshayDocs\\akshay_college\\2017\\SPRING2017\\ECE4012\\SeniorDesignCode\\AdvancedHud\\BT200CtrlDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\map.png
+5.set=ANDROID_RESOURCE
+3.base=C\:\\AkshayDocs_12_23_2015\\AkshayDocs\\akshay_college\\2017\\SPRING2017\\ECE4012\\SeniorDesignCode\\AdvancedHud\\BT200CtrlDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\AkshayDocs_12_23_2015\\AkshayDocs\\akshay_college\\2017\\SPRING2017\\ECE4012\\SeniorDesignCode\\AdvancedHud\\BT200CtrlDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_bt2_ctrl_demo.xml
+2.set=ANDROID_RESOURCE
+4.base=C\:\\AkshayDocs_12_23_2015\\AkshayDocs\\akshay_college\\2017\\SPRING2017\\ECE4012\\SeniorDesignCode\\AdvancedHud\\BT200CtrlDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\AkshayDocs_12_23_2015\\AkshayDocs\\akshay_college\\2017\\SPRING2017\\ECE4012\\SeniorDesignCode\\AdvancedHud\\BT200CtrlDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+7.set=ANDROID_RESOURCE
+count=10
+0.file=C\:\\AkshayDocs_12_23_2015\\AkshayDocs\\akshay_college\\2017\\SPRING2017\\ECE4012\\SeniorDesignCode\\AdvancedHud\\BT200CtrlDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.base=C\:\\AkshayDocs_12_23_2015\\AkshayDocs\\akshay_college\\2017\\SPRING2017\\ECE4012\\SeniorDesignCode\\AdvancedHud\\BT200CtrlDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\AkshayDocs_12_23_2015\\AkshayDocs\\akshay_college\\2017\\SPRING2017\\ECE4012\\SeniorDesignCode\\AdvancedHud\\BT200CtrlDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\transp.png
+4.set=ANDROID_RESOURCE
+6.base=C\:\\AkshayDocs_12_23_2015\\AkshayDocs\\akshay_college\\2017\\SPRING2017\\ECE4012\\SeniorDesignCode\\AdvancedHud\\BT200CtrlDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\AkshayDocs_12_23_2015\\AkshayDocs\\akshay_college\\2017\\SPRING2017\\ECE4012\\SeniorDesignCode\\AdvancedHud\\BT200CtrlDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+9.set=ANDROID_RESOURCE
+9.file=C\:\\AkshayDocs_12_23_2015\\AkshayDocs\\akshay_college\\2017\\SPRING2017\\ECE4012\\SeniorDesignCode\\AdvancedHud\\BT200CtrlDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\bt2_ctrl_demo.xml
+1.set=ANDROID_RESOURCE
+7.base=C\:\\AkshayDocs_12_23_2015\\AkshayDocs\\akshay_college\\2017\\SPRING2017\\ECE4012\\SeniorDesignCode\\AdvancedHud\\BT200CtrlDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\AkshayDocs_12_23_2015\\AkshayDocs\\akshay_college\\2017\\SPRING2017\\ECE4012\\SeniorDesignCode\\AdvancedHud\\BT200CtrlDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\bt2_ctrl_demo.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\AkshayDocs_12_23_2015\\AkshayDocs\\akshay_college\\2017\\SPRING2017\\ECE4012\\SeniorDesignCode\\AdvancedHud\\BT200CtrlDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\AkshayDocs_12_23_2015\\AkshayDocs\\akshay_college\\2017\\SPRING2017\\ECE4012\\SeniorDesignCode\\AdvancedHud\\BT200CtrlDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\AkshayDocs_12_23_2015\\AkshayDocs\\akshay_college\\2017\\SPRING2017\\ECE4012\\SeniorDesignCode\\AdvancedHud\\BT200CtrlDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\main.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\AkshayDocs_12_23_2015\\AkshayDocs\\akshay_college\\2017\\SPRING2017\\ECE4012\\SeniorDesignCode\\AdvancedHud\\BT200CtrlDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=C\:\\AkshayDocs_12_23_2015\\AkshayDocs\\akshay_college\\2017\\SPRING2017\\ECE4012\\SeniorDesignCode\\AdvancedHud\\BT200CtrlDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\AkshayDocs_12_23_2015\\AkshayDocs\\akshay_college\\2017\\SPRING2017\\ECE4012\\SeniorDesignCode\\AdvancedHud\\BT200CtrlDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
